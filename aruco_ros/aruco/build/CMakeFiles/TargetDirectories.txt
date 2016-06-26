@@ -1,0 +1,11 @@
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/download_extra_data.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/aruco.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/gtest/CMakeFiles/gtest.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/_catkin_empty_exported_target.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/tests.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/optimalmarkers.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/doxygen.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/gtest/CMakeFiles/gtest_main.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/clean_test_results_aruco.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/clean_test_results.dir
+/home/wyj/workspace/06.UGVC/src/aruco_ros/aruco/build/CMakeFiles/run_tests.dir
